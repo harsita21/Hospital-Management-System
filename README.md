@@ -137,6 +137,3 @@ src/main/
 * **SQL Injection Protection:** All database interactions use `PreparedStatement`.
 * **Password Hashing:** Passwords are securely hashed before storage using `PasswordUtil`.
 * **Session Management:** Sessions automatically timeout after 30 minutes of inactivity.
-
-## 📄 License
-This project is licensed under the MIT License.
